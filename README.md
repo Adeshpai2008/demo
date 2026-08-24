@@ -1,2 +1,4 @@
 # demo
-This is my first repo - author Adesh pai
+This is my first repo:
+<br>
+author Adesh pai
